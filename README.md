@@ -3,4 +3,6 @@ This project is part of the course ECBM4060: Intro to Genomic Information for Sc
 
 ## Abstract
 **Motivation:** It is understood that genetic variants play a crucial role in the heterogeneity of Covid-19 outcomes. Quantifying the unexplored underlying mechanisms of genetic mutations, presents a great opportunity to further elucidate the causality between the genetic variants and mortality rates from Covid-19.
+
+
 **Results:** We illustrate that mutations of the APOE gene in mice (APOE2,APOE4), exhibit an increased Covid-19 progression and viral loads relative to mice having the APOE3 gene. Additionally our findings suggest that APOE2,APOE4 negatively affect antiviral immunity.
