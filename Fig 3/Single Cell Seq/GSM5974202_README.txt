@@ -1,0 +1,31 @@
+# scRNAseq of lungs from APOE knock-in mice with or without COVID-19. Libraries were prepared with the whole transcriptome 100K kit from Parse Biosciences, which involves barcoding and then pooling cells from all samples prior to generation of eight sublibraries. Because of the design of the kit, sequencing reads of all samples are distributed across all eight sublibraries. For demultiplexing, sample-well combinations are provided in the `sample_well_IDs.tsv` file. The table below in tsv-format lists the samples and corresponding APOE genotype and infection status. 
+Sample_name	title	source_name	organism	APOE_genotype	condition
+ctrl_01_E2	Non-infected APOE2 mouse rep 01	Lung	Mus musculus	APOE2	non-infected
+ctrl_02_E2	Non-infected APOE2 mouse rep 02	Lung	Mus musculus	APOE2	non-infected
+ctrl_03_E2	Non-infected APOE2 mouse rep 03	Lung	Mus musculus	APOE2	non-infected
+ctrl_04_E3	Non-infected APOE3 mouse rep 01	Lung	Mus musculus	APOE3	non-infected
+ctrl_05_E3	Non-infected APOE3 mouse rep 02	Lung	Mus musculus	APOE3	non-infected
+ctrl_06_E3	Non-infected APOE3 mouse rep 03	Lung	Mus musculus	APOE3	non-infected
+ctrl_07_E4	Non-infected APOE4 mouse rep 01	Lung	Mus musculus	APOE4	non-infected
+ctrl_08_E4	Non-infected APOE4 mouse rep 02	Lung	Mus musculus	APOE4	non-infected
+ctrl_09_E4	Non-infected APOE4 mouse rep 03	Lung	Mus musculus	APOE4	non-infected
+inf_01_E2	Infected APOE2 mouse rep 01	Lung	Mus musculus	APOE2	infected
+inf_02_E2	Infected APOE2 mouse rep 02	Lung	Mus musculus	APOE2	infected
+inf_03_E3	Infected APOE3 mouse rep 01	Lung	Mus musculus	APOE3	infected
+inf_04_E3	Infected APOE3 mouse rep 02	Lung	Mus musculus	APOE3	infected
+inf_05_E4	Infected APOE4 mouse rep 01	Lung	Mus musculus	APOE4	infected
+inf_06_E4	Infected APOE4 mouse rep 02	Lung	Mus musculus	APOE4	infected
+inf_07_E4	Infected APOE4 mouse rep 03	Lung	Mus musculus	APOE4	infected
+inf_08_E2	Infected APOE2 mouse rep 03	Lung	Mus musculus	APOE2	infected
+inf_09_E2	Infected APOE2 mouse rep 04	Lung	Mus musculus	APOE2	infected
+inf_10_E2	Infected APOE2 mouse rep 05	Lung	Mus musculus	APOE2	infected
+inf_11_E3	Infected APOE3 mouse rep 03	Lung	Mus musculus	APOE3	infected
+inf_12_E3	Infected APOE3 mouse rep 04	Lung	Mus musculus	APOE3	infected
+inf_13_E4	Infected APOE4 mouse rep 04	Lung	Mus musculus	APOE4	infected
+inf_15_E4	Infected APOE4 mouse rep 05	Lung	Mus musculus	APOE4	infected
+inf_16_E4	Infected APOE4 mouse rep 06	Lung	Mus musculus	APOE4	infected
+inf_17_E2	Infected APOE2 mouse rep 06	Lung	Mus musculus	APOE2	infected
+inf_18_E3	Infected APOE3 mouse rep 05	Lung	Mus musculus	APOE3	infected
+inf_19_E4	Infected APOE4 mouse rep 07	Lung	Mus musculus	APOE4	infected
+inf_20_E4	Infected APOE4 mouse rep 08	Lung	Mus musculus	APOE4	infected
+inf_23_E3	Infected APOE3 mouse rep 06	Lung	Mus musculus	APOE3	infected
